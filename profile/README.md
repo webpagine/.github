@@ -12,4 +12,4 @@ It fits my needs perfectly! At this point, four months of development of Pagine 
 
 After that, I thought about integrating Starlark as embedded programming language, but this still couldn't match the strong competitiveness of the Node.js NPM ecosystem. 😇
 
-If the project has a change/chance to be restarted next time, it must be **COMPLETELY DIFFERENT** from now. 😉
+If the project has a change/chance to be restarted next time, it will definitely/must be **COMPLETELY DIFFERENT** from now. 😉
